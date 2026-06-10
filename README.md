@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciência da Computação na CESAR School
 
-Sou apaixonado por tecnologia, programação e desenvolvimento de soluções que gerem impacto positivo. Atualmente estou aprimorando meus conhecimentos em desenvolvimento web, Python, JavaScript e acessibilidade digital através de projetos acadêmicos e pessoais.
+Sou apaixonado por tecnologia, programação e desenvolvimento de soluções criativas que gerem impacto real e positivo. Atualmente estou aprimorando meus conhecimentos em desenvolvimento web, Python, JavaScript e acessibilidade digital através de projetos acadêmicos e pessoais.
 
 ---
 
