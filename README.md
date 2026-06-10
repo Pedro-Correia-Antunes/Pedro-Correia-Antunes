@@ -59,7 +59,7 @@ Site pessoal para apresentação de projetos, habilidades e trajetória acadêmi
 
 💼 LinkedIn: <https://www.linkedin.com/in/pedro-correia-antunes/>
 
-🐙 GitHub: https://github.com/<Pedro-Correia-Antunes>
+🐙 GitHub: [https://github.com/<Pedro-Correia-Antunes>](https://github.com/Pedro-Correia-Antunes)
 
 ---
 
